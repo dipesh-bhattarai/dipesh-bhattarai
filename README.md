@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Dipesh 👋
 
-<!--
-**dipesh-bhattarai/dipesh-bhattarai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **BSc CSIT student** and aspiring **AI/ML Engineer** from Nepal. I'm passionate about Machine Learning, Deep Learning, and Generative AI, and I enjoy building practical projects while continuously learning and exploring new technologies.
 
-Here are some ideas to get you started:
+### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:**
+Python · C · C++ · Java · JavaScript · SQL
+
+**Machine Learning:**
+NumPy · Pandas · Scikit-learn · XGBoost · LightGBM · CatBoost
+
+**Deep Learning:**
+PyTorch · TensorFlow · CNNs · RNNs · LSTMs · Transformers
+
+**Generative AI:**
+LLMs · LangChain · RAG · Embeddings · FAISS · ChromaDB · Prompt Engineering
+
+**Development & Tools:**
+FastAPI · Streamlit · Git · GitHub · REST APIs · Docker
