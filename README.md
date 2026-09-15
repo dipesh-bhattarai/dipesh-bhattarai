@@ -17,4 +17,4 @@ PyTorch · TensorFlow · CNNs · RNNs · LSTMs · Transformers
 LLMs · LangChain · RAG · Embeddings · FAISS · ChromaDB · Prompt Engineering
 
 **Development & Tools:**
-FastAPI · Streamlit · Git · GitHub · REST APIs · Docker
+FastAPI · Streamlit · Git · GitHub · FAST APIs · Docker
