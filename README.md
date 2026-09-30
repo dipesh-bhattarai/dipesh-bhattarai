@@ -82,8 +82,6 @@ I'm a **BSc CSIT student** and aspiring **AI/ML Engineer** from Nepal. I'm passi
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/58a6ff/YOUR_USERNAME" alt="Contribution Chart" width="100%" />
-
 <img width="49%" src="https://raw.githubusercontent.com/dipesh-bhattarai/dipesh-bhattarai/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
 <img width="49%" src="https://raw.githubusercontent.com/dipesh-bhattarai/dipesh-bhattarai/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" />
 
