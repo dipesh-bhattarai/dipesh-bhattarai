@@ -103,7 +103,7 @@ I'm a **BSc CSIT student** and aspiring **AI/ML Engineer** from Nepal. I'm passi
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dipesh-bhattarai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dipesh-bhattarai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dipeshbhattaraii)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipesh.bhattarai.dipu@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=dipesh-bhattarai&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
