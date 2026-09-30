@@ -88,7 +88,7 @@ I'm a **BSc CSIT student** and aspiring **AI/ML Engineer** from Nepal. I'm passi
 </div>
 
 ---
-
+<!-- 
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -97,7 +97,7 @@ I'm a **BSc CSIT student** and aspiring **AI/ML Engineer** from Nepal. I'm passi
 
 </div>
 
----
+---    -->
 
 ## 📫 Connect With Me
 
