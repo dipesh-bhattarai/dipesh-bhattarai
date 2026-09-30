@@ -71,8 +71,8 @@ I'm a **BSc CSIT student** and aspiring **AI/ML Engineer** from Nepal. I'm passi
 
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=dipesh-bhattarai&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipesh-bhattarai&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://raw.githubusercontent.com/dipesh-bhattarai/dipesh-bhattarai/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
+<img width="49%" src="https://raw.githubusercontent.com/dipesh-bhattarai/dipesh-bhattarai/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages" />
 
 </div>
 
@@ -82,7 +82,10 @@ I'm a **BSc CSIT student** and aspiring **AI/ML Engineer** from Nepal. I'm passi
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dipesh-bhattarai&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="Activity Graph" width="100%" />
+<img src="https://ghchart.rshah.org/58a6ff/YOUR_USERNAME" alt="Contribution Chart" width="100%" />
+
+<img width="49%" src="https://raw.githubusercontent.com/dipesh-bhattarai/dipesh-bhattarai/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
+<img width="49%" src="https://raw.githubusercontent.com/dipesh-bhattarai/dipesh-bhattarai/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" />
 
 </div>
 
@@ -106,7 +109,7 @@ I'm a **BSc CSIT student** and aspiring **AI/ML Engineer** from Nepal. I'm passi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dipeshbhattaraii)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipesh.bhattarai.dipu@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=dipesh-bhattarai&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
 
 </div>
 
