@@ -78,16 +78,15 @@ I'm a **BSc CSIT student** and aspiring **AI/ML Engineer** from Nepal. I'm passi
 
 ---
 
-## 📈 Contribution Activity
+<!-- <div>contribution activity</div> -->
 
-<div align="center">
+<!-- <div align="center"> -->
 
 <!-- <img width="49%" src="https://raw.githubusercontent.com/dipesh-bhattarai/dipesh-bhattarai/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" /> -->
-<img width="49%" src="https://raw.githubusercontent.com/dipesh-bhattarai/dipesh-bhattarai/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" />
+<!-- <img width="49%" src="https://raw.githubusercontent.com/dipesh-bhattarai/dipesh-bhattarai/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" /> -->
 
-</div>
+<!-- </div> -->
 
----
 <!-- 
 ## 🐍 Contribution Snake
 
